@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @bShinzato
-- 👀 I’m interested in how can I utilize my prior civil engineering studies from math into code.
+- 👀 I’m interested in building react apps with full CRUD functionality, complex problems within code, and using Cypress for testing.
 - 🌱 I’m currently learning how to use API's and fetch calls.
-- 💞️ I’m looking to collaborate on small projects, for I love to code on my free time.
-- 📫 How to reach me: LinkedIn 
+- 💞️ I’m looking to collaborate on small projects, for I love to code in my free time.
+- 📫 How to reach me: LinkedIn || Discord
 
 <!---
 bShinzato/bShinzato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
